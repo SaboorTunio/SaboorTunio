@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on: Open-Ai-Agent-SDK, Gemini CLI, and Claude Code, built with Spec-Driven Development.<br><br>👯 I’m looking to collaborate on: AI Agent development and open-source Next.js projects.<br><br>🌱 I’m currently learning: Agentic AI, Spec-Driven Development, FastAPI, Docker, Kubernetes, and next-gen tools (Claude Code, Gemini CLI).<br><br>💬 Ask me about: Python, Next.js, TypeScript, and building AI Agents.
+🔭 I’m currently working on: Open-Ai-Agent-SDK, Gemini CLI, and Claude Code, built with Spec-Driven Development.<br><br>👯 I’m looking to collaborate on: AI Agent development and open-source Next.js projects.<br><br>🌱 I’m currently learning: Agentic AI, Spec-Driven Development, FastAPI, Docker, Kubernetes, and next-gen tools (Claude Code, Gemini CLI).<br><br>💬 Ask me about: Python, Next.js, TypeScript, and building AI Agents.<br><br>🌐 Explore my work and projects through my personal portfolio: [saboortunio.xyz](https://saboortunio.xyz)
+
+
 
 
 # 💻 Tech Stack:
